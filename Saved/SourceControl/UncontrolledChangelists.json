@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/n12468860/Documents/GitHub/IGB321-A2-3-Group-10/Content/StackOBot/Maps/TestWorld.umap",
+				"C:/Users/n12468860/Documents/GitHub/IGB321-A2-3-Group-10/Content/StackOBot/Blueprints/Abilities/Curve_JetpackBoost.uasset",
+				"C:/Users/n12468860/Documents/GitHub/IGB321-A2-3-Group-10/Content/StackOBot/Blueprints/Character/BP_Bot.uasset",
+				"C:/Users/n12468860/Documents/GitHub/IGB321-A2-3-Group-10/Content/StackOBot/Maps/_GENERATED/n12468860/Box_D1C15CBA.uasset",
+				"C:/Users/n12468860/Documents/GitHub/IGB321-A2-3-Group-10/Content/StackOBot/Maps/_GENERATED/n12468860/CubeGridToolOutput_5037CF73.uasset",
+				"C:/Users/n12468860/Documents/GitHub/IGB321-A2-3-Group-10/Content/StackOBot/Blueprints/GameElements/BP_Fan.uasset",
 				"C:/Users/n12035009/Documents/Unreal Projects/StackOBot/Content/__ExternalActors__/StackOBot/Maps/MainWorld/07/IE/A9C3TDQTZP7NW85K7PB9B.uasset",
 				"C:/Users/n12035009/Documents/Unreal Projects/StackOBot/Content/__ExternalActors__/StackOBot/Maps/MainWorld/0C/AN/D23YME16RQ8CTNPOFYIIQ.uasset",
 				"C:/Users/n12035009/Documents/Unreal Projects/StackOBot/Content/__ExternalActors__/StackOBot/Maps/MainWorld/0C/YX/Q0OS68KPIW2MPTN2WPIJU.uasset",

@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Mimbles/Desktop/Github drop/IGB321-A2-3-Group-10 5.5/Content/StackOBot/Maps/Cal_01.umap",
+				"C:/Users/Mimbles/Desktop/Github drop/IGB321-A2-3-Group-10 5.5/Content/StackOBot/Blueprints/GameElements/Railing/railing_004.uasset",
+				"C:/Users/Mimbles/Desktop/Github drop/IGB321-A2-3-Group-10 5.5/Content/StackOBot/Blueprints/GameElements/Pipes/pipeDob_011.uasset",
+				"C:/Users/Mimbles/Desktop/Github drop/IGB321-A2-3-Group-10 5.5/Content/StackOBot/Blueprints/GameElements/Pipes/pipeDob_009.uasset",
 				"C:/Users/User/Documents/GitHub/IGB190-SickGame/IGB321-A2-3-Group-10/Content/StackOBot/Blueprints/GameElements/stackobot_already/BP_DeadBattery.uasset",
 				"C:/Users/User/Documents/GitHub/IGB190-SickGame/IGB321-A2-3-Group-10/Content/StackOBot/Blueprints/GameElements/stackobot_already/BP_Battery.uasset",
 				"C:/Users/User/Documents/GitHub/IGB190-SickGame/IGB321-A2-3-Group-10/Content/StackOBot/Environment/Materials/DeadBattery.uasset",
